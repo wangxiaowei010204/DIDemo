@@ -1,0 +1,16 @@
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\appsettings.json
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\DIDemo.deps.json
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\DIDemo.runtimeconfig.json
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\DIDemo.runtimeconfig.dev.json
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\DIDemo.dll
+D:\汪晓伟\demo\DIDemo\bin\Debug\netcoreapp2.2\DIDemo.pdb
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.csprojAssemblyReference.cache
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.RazorAssemblyInfo.cache
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.RazorAssemblyInfo.cs
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.AssemblyInfoInputs.cache
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.AssemblyInfo.cs
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.RazorTargetAssemblyInfo.cache
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.dll
+D:\汪晓伟\demo\DIDemo\obj\Debug\netcoreapp2.2\DIDemo.pdb
