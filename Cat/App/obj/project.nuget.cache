@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oiQyoT5tdCDqcUD/LgV4uWvUvJaxW83zVzIF1/IOBXLVVXb3ekOW1lp/YdswiwkogNYbkvd2wzGpe2uRTK05HA==",
+  "dgSpecHash": "eL3nwkHKdlYfjAyONXlwqx5992yHUmXxI/ss3+5YbT5s38xpe3+y6M6jMVYEwC7YBVpINjq81a4oYqP5YJkNbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yalla215\\Desktop\\Cat\\App\\App.csproj",
+  "projectFilePath": "D:\\wangxw\\source\\demo\\DIDemo\\DIDemo\\Cat\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\yalla215\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.0.2\\microsoft.aspnetcore.hosting.2.0.2.nupkg.sha512",

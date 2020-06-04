@@ -1750,11 +1750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yalla215\\Desktop\\Cat\\App\\App.csproj",
+      "projectUniqueName": "D:\\wangxw\\source\\demo\\DIDemo\\DIDemo\\Cat\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\yalla215\\Desktop\\Cat\\App\\App.csproj",
+      "projectPath": "D:\\wangxw\\source\\demo\\DIDemo\\DIDemo\\Cat\\App\\App.csproj",
       "packagesPath": "C:\\Users\\yalla215\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yalla215\\Desktop\\Cat\\App\\obj\\",
+      "outputPath": "D:\\wangxw\\source\\demo\\DIDemo\\DIDemo\\Cat\\App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

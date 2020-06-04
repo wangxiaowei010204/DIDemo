@@ -8,12 +8,12 @@ namespace DIDemo.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class ValuesController : ControllerBase, IDisposable
     {
-        private readonly ILearnDI learnDI;
-        public ValuesController(ILearnDI arglearnDI)
+        private ILearnDI learnDI;
+        public ValuesController(ILearnDI _learnDI)
         {
-            this.learnDI = arglearnDI;
+            learnDI = _learnDI;
         }
 
         [HttpGet]
@@ -22,36 +22,10 @@ namespace DIDemo.Controllers
             return learnDI.GetName("希望");
         }
 
-        // GET api/values
-        [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public void Dispose()
         {
-            return new string[] { "value1", "value2" };
+            Console.WriteLine("ValuesController is disposed");
         }
 
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }
