@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vstd+H0iXTD5xMvTo4epsa9snQdoAl4u3VyEYVSETE9aIItEX9p3AKrBB4kzKUHGGuc4HzdAlmMXY+fNDxOScA==",
+  "success": true,
+  "projectFilePath": "D:\\wangxw\\source\\demo\\DIDemo\\DIDemo\\AutoFacDemo\\AutoFacDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yalla215\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\yalla215\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\yalla215\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
