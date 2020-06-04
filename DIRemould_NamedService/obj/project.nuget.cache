@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9JNVjXniYVwBnK263J7KMpESAqU7G47ShysFGvJBOkiwqAvW8a3cVJ2ywir3emfw2ep5yumL0/b0gwi/m0wkQA==",
+  "success": true,
+  "projectFilePath": "D:\\wangxw\\source\\demo\\DIDemo\\DIDemo\\DIRemould_NamedService\\DIRemould_NamedService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yalla215\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
